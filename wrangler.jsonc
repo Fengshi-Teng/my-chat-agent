@@ -24,5 +24,13 @@
       "tag": "v1",
       "new_sqlite_classes": ["Chat"]
     }
+  ],
+    "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "securityprice",
+      "database_id": "34659e26-bae7-4ed1-8f88-3a210be361a6"
+    }
   ]
+
 }
